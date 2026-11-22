@@ -8,7 +8,7 @@ https://github.com/YirenGou/GouYR_LiuM_2026_Chemical_Upwellings
 
 ## Data availability
 
-Model initial files (`init.t3c`), mode files (`mode.t3c`), the output snapshots used to draw Figs. 2–4 and Extended Data Figs. 2–4, and the scripts that draw those figures and Fig. 1 and Extended Data Fig. 1 are available at https://github.com/YirenGou/GouYR_LiuM_2026_Chemical_Upwellings. Fig. 1 also uses lithospheric thickness derived from SAVANI (Auer et al., 2014; Steinberger and Becker, 2018), the GAP-P4 tomography model (Obayashi et al., 2013), the FWEA23 velocity model (Liu et al., 2024), and relocated earthquakes from the TX2019slab catalogue (Lu et al., 2019). Topography in Fig. 1 is SRTM15+ (Tozer et al., 2019), read at runtime from the Generic Mapping Tools remote grid `earth_relief_01m`. Values plotted in Extended Data Fig. 1 are stored in the accompanying script. Extended Data Fig. 5 is a schematic.
+Model initial files (`init.t3c`), mode files (`mode.t3c`), the output snapshots used to draw Figs. 2–4 and Extended Data Figs. 2–4, and the scripts that draw those figures, Fig. 1, and Extended Data Fig. 1 are available at https://github.com/YirenGou/GouYR_LiuM_2026_Chemical_Upwellings. The geophysical grids and earthquake catalogue plotted in Fig. 1 are not redistributed here. Lithospheric thickness is from SAVANI (Auer et al., 2014; Steinberger and Becker, 2018), mantle-transition-zone velocity from GAP-P4 (Obayashi et al., 2013) and FWEA23 (Liu et al., 2024), and earthquakes from the TX2019slab catalogue (Lu et al., 2019); these must be obtained from their original sources. Topography in Fig. 1 is SRTM15+ (Tozer et al., 2019), read at runtime from the Generic Mapping Tools remote grid `earth_relief_01m`. Values plotted in Extended Data Fig. 1 are stored in the accompanying script. Extended Data Fig. 5 is a schematic.
 
 ## Code availability
 
@@ -24,7 +24,7 @@ Each numerical experiment is the run whose plotted image matches that figure in 
 
 | Manuscript figure | Script | Model folder | Files the script reads |
 |---|---|---|---|
-| Fig. 1 | `Fig1/plot_fig1_v4.py` | — | `savani.l.grd`; `GAP_P4`; `FWEA23.r0.0.nc`; `relocated_eq_list`. Topography is fetched at runtime from GMT `earth_relief_01m` (SRTM15+). |
+| Fig. 1 | `Fig1/plot_fig1_v4.py` | — | Script only. The SAVANI, GAP-P4, FWEA23, and TX2019slab files it reads are not in this repository. Topography is fetched at runtime from GMT `earth_relief_01m` (SRTM15+). |
 | Fig. 2 | `Fig2/plot_fig2_GSR.py` | `Fig2_8000ppm_Moho55km_GSR` | `init.t3c`, `mode.t3c`; `gouc`, `gouz`, `gout`, `gouu` at steps 1, 50, 135, 190 |
 | Fig. 3 | `Fig3/plot_fig3_GSR.py` | `Fig3a_Reduced_Moho55km_GSR`, `Fig3b_Oxidized_Moho55km_GSR` | `init.t3c`, `mode.t3c`; `gouc` at steps 0, 70, 130, 180 (reduced) and 0, 80, 160, 360 (oxidized) |
 | Fig. 4 | `Fig4/plot_fig4_GSR.py` | `Fig4_C-H_MTZ0.2PhaseChange_0.1MPa0.01WeakML_MinMiu1E19rho3.28_CL100km_8000ppm_CorrectT_GSR` | `init.t3c`, `mode.t3c`; `gouc` and `gouz` at steps 1, 70, 130, 200 |
@@ -64,19 +64,20 @@ Use the script name in that directory: `plot_fig1_v4.py`, `plot_fig3_GSR.py`, `p
 
 Figs. 2–4 and Extended Data Figs. 1–4 use `numpy` and `matplotlib`. Fig. 1 also uses `pygmt`, `xarray`, and a local GMT installation, and it downloads `earth_relief_01m` from the GMT data server. The script sets that server to `https://mirrors.ustc.edu.cn/gmtdata`. Package versions were not pinned.
 
-## Third-party files in Fig. 1
+## Fig. 1 inputs that are not included
 
-| File | Source |
+`plot_fig1_v4.py` is included. The four data files it reads were produced by other groups and are not in this repository:
+
+| File expected by the script | Source |
 |---|---|
 | `Fig1/Lithospheric thickness/savani.l.grd` | Lithospheric thickness from SAVANI (Auer et al., 2014; Steinberger and Becker, 2018) |
 | `Fig1/MTZ_StagnantSlabs/GAP_P4/GAP_P4/GAP_P4` | GAP-P4 P-wave tomography (Obayashi et al., 2013) |
 | `Fig1/MTZ_StagnantSlabs/FWEA23_ChujieLiu/FWEA23.r0.0.nc` | FWEA23 (Liu et al., 2024) |
 | `Fig1/MTZ_StagnantSlabs/TX2019slab/TX2019slab/relocated_eq_list` | Relocated earthquakes, TX2019slab (Lu et al., 2019) |
-| GMT `earth_relief_01m` (downloaded at runtime) | SRTM15+ (Tozer et al., 2019) |
 
-`FWEA23.r0.0.nc` is about 365 MB. A normal GitHub push rejects a file larger than 100 MB. That file needs [Git LFS](https://git-lfs.com) or a separate archive.
+Topography is not stored here. The script downloads SRTM15+ (Tozer et al., 2019) at runtime as GMT `earth_relief_01m`.
 
-These four files were produced by other groups. The MIT Licence of this repository does not replace their original terms.
+To redraw Fig. 1, obtain those four files from their original sources and place them at the paths above. The MIT Licence of this repository does not apply to them.
 
 ## Licence
 

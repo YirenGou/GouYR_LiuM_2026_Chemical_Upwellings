@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+_fig1_cache/
+*.png
+*.pdf
+*.svg
+
+# Third-party Fig. 1 inputs. Do not add these to the repository.
+Fig1/Lithospheric thickness/savani.l.grd
+Fig1/MTZ_StagnantSlabs/GAP_P4/
+Fig1/MTZ_StagnantSlabs/FWEA23_ChujieLiu/
+Fig1/MTZ_StagnantSlabs/TX2019slab/

@@ -1,0 +1,562 @@
+/LOADFILE_TYPE
+gou0.prn   b
+
+/SAVEFILE_TYPE_cyc0max_maxxystep_maxtkstep_maxtmstep
+gou1.prn      b   20    0.0     2e+6      5e+4
+gou2.prn      b   20    0.2     2e+6      5e+4
+gou3.prn      b   20    0.2     2e+6      5e+4
+gou4.prn      b   20    0.2     2e+6      5e+4
+gou5.prn      b   20    0.2     2e+6      5e+4
+gou6.prn      b   20    0.2     2e+6      5e+4
+gou7.prn      b   20    0.2     2e+6      5e+4
+gou8.prn      b   20    0.2     2e+6      5e+4
+gou9.prn      b   20    0.2     2e+6      5e+4
+gou10.prn     b   20    0.2     2e+6      5e+4
+gou11.prn     b   20    0.2     2e+6      5e+4
+gou12.prn     b   20    0.2     2e+6      5e+4
+gou13.prn     b   20    0.2     2e+6      5e+4
+gou14.prn     b   20    0.2     2e+6      5e+4
+gou15.prn     b   20    0.2     2e+6      5e+4
+gou16.prn     b   20    0.2     2e+6      5e+4
+gou17.prn     b   20    0.2     2e+6      5e+4
+gou18.prn     b   20    0.2     2e+6      5e+4
+gou19.prn     b   20    0.2     2e+6      5e+4
+gou20.prn     b   20    0.2     2e+6      5e+4
+gou21.prn     b   20    0.2     2e+6      5e+4
+gou22.prn     b   20    0.2     2e+6      5e+4
+gou23.prn     b   20    0.2     2e+6      5e+4
+gou24.prn     b   20    0.2     2e+6      5e+4
+gou25.prn     b   20    0.2     2e+6      5e+4
+gou26.prn     b   20    0.2     2e+6      5e+4
+gou27.prn     b   20    0.2     2e+6      5e+4
+gou28.prn     b   20    0.2     2e+6      5e+4
+gou29.prn     b   20    0.2     2e+6      5e+4
+gou30.prn     b   20    0.2     2e+6      5e+4
+gou31.prn     b   20    0.2     2e+6      5e+4
+gou32.prn     b   20    0.2     2e+6      5e+4
+gou33.prn     b   20    0.2     2e+6      5e+4
+gou34.prn     b   20    0.2     2e+6      5e+4
+gou35.prn     b   20    0.2     2e+6      5e+4
+gou36.prn     b   20    0.2     2e+6      5e+4
+gou37.prn     b   20    0.2     2e+6      5e+4
+gou38.prn     b   20    0.2     2e+6      5e+4
+gou39.prn     b   20    0.2     2e+6      5e+4
+gou40.prn     b   20    0.2     2e+6      5e+4
+gou41.prn      b   20    0.2     2e+6      5e+4
+gou42.prn      b   20    0.2     2e+6      5e+4
+gou43.prn      b   20    0.2     2e+6      5e+4
+gou44.prn      b   20    0.2     2e+6      5e+4
+gou45.prn      b   20    0.2     2e+6      5e+4
+gou46.prn      b   20    0.2     2e+6      5e+4
+gou47.prn      b   20    0.2     2e+6      5e+4
+gou48.prn      b   20    0.2     2e+6      5e+4
+gou49.prn      b   20    0.2     2e+6      5e+4
+gou50.prn     b   20    0.2     2e+6      5e+4
+gou51.prn      b   20    0.2     2e+6      5e+4
+gou52.prn      b   20    0.2     2e+6      5e+4
+gou53.prn      b   20    0.2     2e+6      5e+4
+gou54.prn      b   20    0.2     2e+6      5e+4
+gou55.prn      b   20    0.2     2e+6      5e+4
+gou56.prn      b   20    0.2     2e+6      5e+4
+gou57.prn      b   20    0.2     2e+6      5e+4
+gou58.prn      b   20    0.2     2e+6      5e+4
+gou59.prn      b   20    0.2     2e+6      5e+4
+gou60.prn     b   20    0.2     2e+6      5e+4
+gou61.prn b 20 0.2 2e+6 5e+4
+gou62.prn b 20 0.2 2e+6 5e+4
+gou63.prn b 20 0.2 2e+6 5e+4
+gou64.prn b 20 0.2 2e+6 5e+4
+gou65.prn b 20 0.2 2e+6 5e+4
+gou66.prn b 20 0.2 2e+6 5e+4
+gou67.prn b 20 0.2 2e+6 5e+4
+gou68.prn b 20 0.2 2e+6 5e+4
+gou69.prn b 20 0.2 2e+6 5e+4
+gou70.prn b 20 0.2 2e+6 5e+4
+gou71.prn b 20 0.2 2e+6 5e+4
+gou72.prn b 20 0.2 2e+6 5e+4
+gou73.prn b 20 0.2 2e+6 5e+4
+gou74.prn b 20 0.2 2e+6 5e+4
+gou75.prn b 20 0.2 2e+6 5e+4
+gou76.prn b 20 0.2 2e+6 5e+4
+gou77.prn b 20 0.2 2e+6 5e+4
+gou78.prn b 20 0.2 2e+6 5e+4
+gou79.prn b 20 0.2 2e+6 5e+4
+gou80.prn b 20 0.2 2e+6 5e+4
+gou81.prn b 20 0.2 2e+6 5e+4
+gou82.prn b 20 0.2 2e+6 5e+4
+gou83.prn b 20 0.2 2e+6 5e+4
+gou84.prn b 20 0.2 2e+6 5e+4
+gou85.prn b 20 0.2 2e+6 5e+4
+gou86.prn b 20 0.2 2e+6 5e+4
+gou87.prn b 20 0.2 2e+6 5e+4
+gou88.prn b 20 0.2 2e+6 5e+4
+gou89.prn b 20 0.2 2e+6 5e+4
+gou90.prn b 20 0.2 2e+6 5e+4
+gou91.prn b 20 0.2 2e+6 5e+4
+gou92.prn b 20 0.2 2e+6 5e+4
+gou93.prn b 20 0.2 2e+6 5e+4
+gou94.prn b 20 0.2 2e+6 5e+4
+gou95.prn b 20 0.2 2e+6 5e+4
+gou96.prn b 20 0.2 2e+6 5e+4
+gou97.prn b 20 0.2 2e+6 5e+4
+gou98.prn b 20 0.2 2e+6 5e+4
+gou99.prn b 20 0.2 2e+6 5e+4
+gou100.prn b 20 0.2 2e+6 5e+4
+gou101.prn b 20 0.2 2e+6 5e+4
+gou102.prn b 20 0.2 2e+6 5e+4
+gou103.prn b 20 0.2 2e+6 5e+4
+gou104.prn b 20 0.2 2e+6 5e+4
+gou105.prn b 20 0.2 2e+6 5e+4
+gou106.prn b 20 0.2 2e+6 5e+4
+gou107.prn b 20 0.2 2e+6 5e+4
+gou108.prn b 20 0.2 2e+6 5e+4
+gou109.prn b 20 0.2 2e+6 5e+4
+gou110.prn b 20 0.2 2e+6 5e+4
+gou111.prn b 20 0.2 2e+6 5e+4
+gou112.prn b 20 0.2 2e+6 5e+4
+gou113.prn b 20 0.2 2e+6 5e+4
+gou114.prn b 20 0.2 2e+6 5e+4
+gou115.prn b 20 0.2 2e+6 5e+4
+gou116.prn b 20 0.2 2e+6 5e+4
+gou117.prn b 20 0.2 2e+6 5e+4
+gou118.prn b 20 0.2 2e+6 5e+4
+gou119.prn b 20 0.2 2e+6 5e+4
+gou120.prn b 20 0.2 2e+6 5e+4
+gou121.prn b 20 0.2 2e+6 5e+4
+gou122.prn b 20 0.2 2e+6 5e+4
+gou123.prn b 20 0.2 2e+6 5e+4
+gou124.prn b 20 0.2 2e+6 5e+4
+gou125.prn b 20 0.2 2e+6 5e+4
+gou126.prn b 20 0.2 2e+6 5e+4
+gou127.prn b 20 0.2 2e+6 5e+4
+gou128.prn b 20 0.2 2e+6 5e+4
+gou129.prn b 20 0.2 2e+6 5e+4
+gou130.prn b 20 0.2 2e+6 5e+4
+gou131.prn b 20 0.2 2e+6 5e+4
+gou132.prn b 20 0.2 2e+6 5e+4
+gou133.prn b 20 0.2 2e+6 5e+4
+gou134.prn b 20 0.2 2e+6 5e+4
+gou135.prn b 20 0.2 2e+6 5e+4
+gou136.prn b 20 0.2 2e+6 5e+4
+gou137.prn b 20 0.2 2e+6 5e+4
+gou138.prn b 20 0.2 2e+6 5e+4
+gou139.prn b 20 0.2 2e+6 5e+4
+gou140.prn b 20 0.2 2e+6 5e+4
+gou141.prn b 20 0.2 2e+6 5e+4
+gou142.prn b 20 0.2 2e+6 5e+4
+gou143.prn b 20 0.2 2e+6 5e+4
+gou144.prn b 20 0.2 2e+6 5e+4
+gou145.prn b 20 0.2 2e+6 5e+4
+gou146.prn b 20 0.2 2e+6 5e+4
+gou147.prn b 20 0.2 2e+6 5e+4
+gou148.prn b 20 0.2 2e+6 5e+4
+gou149.prn b 20 0.2 2e+6 5e+4
+gou150.prn b 20 0.2 2e+6 5e+4
+gou151.prn b 20 0.2 2e+6 5e+4
+gou152.prn b 20 0.2 2e+6 5e+4
+gou153.prn b 20 0.2 2e+6 5e+4
+gou154.prn b 20 0.2 2e+6 5e+4
+gou155.prn b 20 0.2 2e+6 5e+4
+gou156.prn b 20 0.2 2e+6 5e+4
+gou157.prn b 20 0.2 2e+6 5e+4
+gou158.prn b 20 0.2 2e+6 5e+4
+gou159.prn b 20 0.2 2e+6 5e+4
+gou160.prn b 20 0.2 2e+6 5e+4
+gou161.prn b 20 0.2 2e+6 5e+4
+gou162.prn b 20 0.2 2e+6 5e+4
+gou163.prn b 20 0.2 2e+6 5e+4
+gou164.prn b 20 0.2 2e+6 5e+4
+gou165.prn b 20 0.2 2e+6 5e+4
+gou166.prn b 20 0.2 2e+6 5e+4
+gou167.prn b 20 0.2 2e+6 5e+4
+gou168.prn b 20 0.2 2e+6 5e+4
+gou169.prn b 20 0.2 2e+6 5e+4
+gou170.prn b 20 0.2 2e+6 5e+4
+gou171.prn b 20 0.2 2e+6 5e+4
+gou172.prn b 20 0.2 2e+6 5e+4
+gou173.prn b 20 0.2 2e+6 5e+4
+gou174.prn b 20 0.2 2e+6 5e+4
+gou175.prn b 20 0.2 2e+6 5e+4
+gou176.prn b 20 0.2 2e+6 5e+4
+gou177.prn b 20 0.2 2e+6 5e+4
+gou178.prn b 20 0.2 2e+6 5e+4
+gou179.prn b 20 0.2 2e+6 5e+4
+gou180.prn b 20 0.2 2e+6 5e+4
+gou181.prn b 20 0.2 2e+6 5e+4
+gou182.prn b 20 0.2 2e+6 5e+4
+gou183.prn b 20 0.2 2e+6 5e+4
+gou184.prn b 20 0.2 2e+6 5e+4
+gou185.prn b 20 0.2 2e+6 5e+4
+gou186.prn b 20 0.2 2e+6 5e+4
+gou187.prn b 20 0.2 2e+6 5e+4
+gou188.prn b 20 0.2 2e+6 5e+4
+gou189.prn b 20 0.2 2e+6 5e+4
+gou190.prn b 20 0.2 2e+6 5e+4
+gou191.prn b 20 0.2 2e+6 5e+4
+gou192.prn b 20 0.2 2e+6 5e+4
+gou193.prn b 20 0.2 2e+6 5e+4
+gou194.prn b 20 0.2 2e+6 5e+4
+gou195.prn b 20 0.2 2e+6 5e+4
+gou196.prn b 20 0.2 2e+6 5e+4
+gou197.prn b 20 0.2 2e+6 5e+4
+gou198.prn b 20 0.2 2e+6 5e+4
+gou199.prn b 20 0.2 2e+6 5e+4
+gou200.prn b 20 0.2 2e+6 5e+4
+gou201.prn b 20 0.2 2e+6 5e+4
+gou202.prn b 20 0.2 2e+6 5e+4
+gou203.prn b 20 0.2 2e+6 5e+4
+gou204.prn b 20 0.2 2e+6 5e+4
+gou205.prn b 20 0.2 2e+6 5e+4
+gou206.prn b 20 0.2 2e+6 5e+4
+gou207.prn b 20 0.2 2e+6 5e+4
+gou208.prn b 20 0.2 2e+6 5e+4
+gou209.prn b 20 0.2 2e+6 5e+4
+gou210.prn b 20 0.2 2e+6 5e+4
+gou211.prn b 20 0.2 2e+6 5e+4
+gou212.prn b 20 0.2 2e+6 5e+4
+gou213.prn b 20 0.2 2e+6 5e+4
+gou214.prn b 20 0.2 2e+6 5e+4
+gou215.prn b 20 0.2 2e+6 5e+4
+gou216.prn b 20 0.2 2e+6 5e+4
+gou217.prn b 20 0.2 2e+6 5e+4
+gou218.prn b 20 0.2 2e+6 5e+4
+gou219.prn b 20 0.2 2e+6 5e+4
+gou220.prn b 20 0.2 2e+6 5e+4
+gou221.prn b 20 0.2 2e+6 5e+4
+gou222.prn b 20 0.2 2e+6 5e+4
+gou223.prn b 20 0.2 2e+6 5e+4
+gou224.prn b 20 0.2 2e+6 5e+4
+gou225.prn b 20 0.2 2e+6 5e+4
+gou226.prn b 20 0.2 2e+6 5e+4
+gou227.prn b 20 0.2 2e+6 5e+4
+gou228.prn b 20 0.2 2e+6 5e+4
+gou229.prn b 20 0.2 2e+6 5e+4
+gou230.prn b 20 0.2 2e+6 5e+4
+gou231.prn b 20 0.2 2e+6 5e+4
+gou232.prn b 20 0.2 2e+6 5e+4
+gou233.prn b 20 0.2 2e+6 5e+4
+gou234.prn b 20 0.2 2e+6 5e+4
+gou235.prn b 20 0.2 2e+6 5e+4
+gou236.prn b 20 0.2 2e+6 5e+4
+gou237.prn b 20 0.2 2e+6 5e+4
+gou238.prn b 20 0.2 2e+6 5e+4
+gou239.prn b 20 0.2 2e+6 5e+4
+gou240.prn b 20 0.2 2e+6 5e+4
+gou241.prn b 20 0.2 2e+6 5e+4
+gou242.prn b 20 0.2 2e+6 5e+4
+gou243.prn b 20 0.2 2e+6 5e+4
+gou244.prn b 20 0.2 2e+6 5e+4
+gou245.prn b 20 0.2 2e+6 5e+4
+gou246.prn b 20 0.2 2e+6 5e+4
+gou247.prn b 20 0.2 2e+6 5e+4
+gou248.prn b 20 0.2 2e+6 5e+4
+gou249.prn b 20 0.2 2e+6 5e+4
+gou250.prn b 20 0.2 2e+6 5e+4
+gou251.prn b 20 0.2 2e+6 5e+4
+gou252.prn b 20 0.2 2e+6 5e+4
+gou253.prn b 20 0.2 2e+6 5e+4
+gou254.prn b 20 0.2 2e+6 5e+4
+gou255.prn b 20 0.2 2e+6 5e+4
+gou256.prn b 20 0.2 2e+6 5e+4
+gou257.prn b 20 0.2 2e+6 5e+4
+gou258.prn b 20 0.2 2e+6 5e+4
+gou259.prn b 20 0.2 2e+6 5e+4
+gou260.prn b 20 0.2 2e+6 5e+4
+gou261.prn b 20 0.2 2e+6 5e+4
+gou262.prn b 20 0.2 2e+6 5e+4
+gou263.prn b 20 0.2 2e+6 5e+4
+gou264.prn b 20 0.2 2e+6 5e+4
+gou265.prn b 20 0.2 2e+6 5e+4
+gou266.prn b 20 0.2 2e+6 5e+4
+gou267.prn b 20 0.2 2e+6 5e+4
+gou268.prn b 20 0.2 2e+6 5e+4
+gou269.prn b 20 0.2 2e+6 5e+4
+gou270.prn b 20 0.2 2e+6 5e+4
+gou271.prn b 20 0.2 2e+6 5e+4
+gou272.prn b 20 0.2 2e+6 5e+4
+gou273.prn b 20 0.2 2e+6 5e+4
+gou274.prn b 20 0.2 2e+6 5e+4
+gou275.prn b 20 0.2 2e+6 5e+4
+gou276.prn b 20 0.2 2e+6 5e+4
+gou277.prn b 20 0.2 2e+6 5e+4
+gou278.prn b 20 0.2 2e+6 5e+4
+gou279.prn b 20 0.2 2e+6 5e+4
+gou280.prn b 20 0.2 2e+6 5e+4
+gou281.prn b 20 0.2 2e+6 5e+4
+gou282.prn b 20 0.2 2e+6 5e+4
+gou283.prn b 20 0.2 2e+6 5e+4
+gou284.prn b 20 0.2 2e+6 5e+4
+gou285.prn b 20 0.2 2e+6 5e+4
+gou286.prn b 20 0.2 2e+6 5e+4
+gou287.prn b 20 0.2 2e+6 5e+4
+gou288.prn b 20 0.2 2e+6 5e+4
+gou289.prn b 20 0.2 2e+6 5e+4
+gou290.prn b 20 0.2 2e+6 5e+4
+gou291.prn b 20 0.2 2e+6 5e+4
+gou292.prn b 20 0.2 2e+6 5e+4
+gou293.prn b 20 0.2 2e+6 5e+4
+gou294.prn b 20 0.2 2e+6 5e+4
+gou295.prn b 20 0.2 2e+6 5e+4
+gou296.prn b 20 0.2 2e+6 5e+4
+gou297.prn b 20 0.2 2e+6 5e+4
+gou298.prn b 20 0.2 2e+6 5e+4
+gou299.prn b 20 0.2 2e+6 5e+4
+gou300.prn b 20 0.2 2e+6 5e+4
+gou301.prn b 20 0.2 2e+6 5e+4
+gou302.prn b 20 0.2 2e+6 5e+4
+gou303.prn b 20 0.2 2e+6 5e+4
+gou304.prn b 20 0.2 2e+6 5e+4
+gou305.prn b 20 0.2 2e+6 5e+4
+gou306.prn b 20 0.2 2e+6 5e+4
+gou307.prn b 20 0.2 2e+6 5e+4
+gou308.prn b 20 0.2 2e+6 5e+4
+gou309.prn b 20 0.2 2e+6 5e+4
+gou310.prn b 20 0.2 2e+6 5e+4
+gou311.prn b 20 0.2 2e+6 5e+4
+gou312.prn b 20 0.2 2e+6 5e+4
+gou313.prn b 20 0.2 2e+6 5e+4
+gou314.prn b 20 0.2 2e+6 5e+4
+gou315.prn b 20 0.2 2e+6 5e+4
+gou316.prn b 20 0.2 2e+6 5e+4
+gou317.prn b 20 0.2 2e+6 5e+4
+gou318.prn b 20 0.2 2e+6 5e+4
+gou319.prn b 20 0.2 2e+6 5e+4
+gou320.prn b 20 0.2 2e+6 5e+4
+gou321.prn b 20 0.2 2e+6 5e+4
+gou322.prn b 20 0.2 2e+6 5e+4
+gou323.prn b 20 0.2 2e+6 5e+4
+gou324.prn b 20 0.2 2e+6 5e+4
+gou325.prn b 20 0.2 2e+6 5e+4
+gou326.prn b 20 0.2 2e+6 5e+4
+gou327.prn b 20 0.2 2e+6 5e+4
+gou328.prn b 20 0.2 2e+6 5e+4
+gou329.prn b 20 0.2 2e+6 5e+4
+gou330.prn b 20 0.2 2e+6 5e+4
+gou331.prn b 20 0.2 2e+6 5e+4
+gou332.prn b 20 0.2 2e+6 5e+4
+gou333.prn b 20 0.2 2e+6 5e+4
+gou334.prn b 20 0.2 2e+6 5e+4
+gou335.prn b 20 0.2 2e+6 5e+4
+gou336.prn b 20 0.2 2e+6 5e+4
+gou337.prn b 20 0.2 2e+6 5e+4
+gou338.prn b 20 0.2 2e+6 5e+4
+gou339.prn b 20 0.2 2e+6 5e+4
+gou340.prn b 20 0.2 2e+6 5e+4
+gou341.prn b 20 0.2 2e+6 5e+4
+gou342.prn b 20 0.2 2e+6 5e+4
+gou343.prn b 20 0.2 2e+6 5e+4
+gou344.prn b 20 0.2 2e+6 5e+4
+gou345.prn b 20 0.2 2e+6 5e+4
+gou346.prn b 20 0.2 2e+6 5e+4
+gou347.prn b 20 0.2 2e+6 5e+4
+gou348.prn b 20 0.2 2e+6 5e+4
+gou349.prn b 20 0.2 2e+6 5e+4
+gou350.prn b 20 0.2 2e+6 5e+4
+gou351.prn b 20 0.2 2e+6 5e+4
+gou352.prn b 20 0.2 2e+6 5e+4
+gou353.prn b 20 0.2 2e+6 5e+4
+gou354.prn b 20 0.2 2e+6 5e+4
+gou355.prn b 20 0.2 2e+6 5e+4
+gou356.prn b 20 0.2 2e+6 5e+4
+gou357.prn b 20 0.2 2e+6 5e+4
+gou358.prn b 20 0.2 2e+6 5e+4
+gou359.prn b 20 0.2 2e+6 5e+4
+gou360.prn b 20 0.2 2e+6 5e+4
+gou361.prn b 20 0.2 2e+6 5e+4
+gou362.prn b 20 0.2 2e+6 5e+4
+gou363.prn b 20 0.2 2e+6 5e+4
+gou364.prn b 20 0.2 2e+6 5e+4
+gou365.prn b 20 0.2 2e+6 5e+4
+gou366.prn b 20 0.2 2e+6 5e+4
+gou367.prn b 20 0.2 2e+6 5e+4
+gou368.prn b 20 0.2 2e+6 5e+4
+gou369.prn b 20 0.2 2e+6 5e+4
+gou370.prn b 20 0.2 2e+6 5e+4
+gou371.prn b 20 0.2 2e+6 5e+4
+gou372.prn b 20 0.2 2e+6 5e+4
+gou373.prn b 20 0.2 2e+6 5e+4
+gou374.prn b 20 0.2 2e+6 5e+4
+gou375.prn b 20 0.2 2e+6 5e+4
+gou376.prn b 20 0.2 2e+6 5e+4
+gou377.prn b 20 0.2 2e+6 5e+4
+gou378.prn b 20 0.2 2e+6 5e+4
+gou379.prn b 20 0.2 2e+6 5e+4
+gou380.prn b 20 0.2 2e+6 5e+4
+gou381.prn b 20 0.2 2e+6 5e+4
+gou382.prn b 20 0.2 2e+6 5e+4
+gou383.prn b 20 0.2 2e+6 5e+4
+gou384.prn b 20 0.2 2e+6 5e+4
+gou385.prn b 20 0.2 2e+6 5e+4
+gou386.prn b 20 0.2 2e+6 5e+4
+gou387.prn b 20 0.2 2e+6 5e+4
+gou388.prn b 20 0.2 2e+6 5e+4
+gou389.prn b 20 0.2 2e+6 5e+4
+gou390.prn b 20 0.2 2e+6 5e+4
+gou391.prn b 20 0.2 2e+6 5e+4
+gou392.prn b 20 0.2 2e+6 5e+4
+gou393.prn b 20 0.2 2e+6 5e+4
+gou394.prn b 20 0.2 2e+6 5e+4
+gou395.prn b 20 0.2 2e+6 5e+4
+gou396.prn b 20 0.2 2e+6 5e+4
+gou397.prn b 20 0.2 2e+6 5e+4
+gou398.prn b 20 0.2 2e+6 5e+4
+gou399.prn b 20 0.2 2e+6 5e+4
+gou400.prn b 20 0.2 2e+6 5e+4
+gou401.prn b 20 0.2 2e+6 5e+4
+gou402.prn b 20 0.2 2e+6 5e+4
+gou403.prn b 20 0.2 2e+6 5e+4
+gou404.prn b 20 0.2 2e+6 5e+4
+gou405.prn b 20 0.2 2e+6 5e+4
+gou406.prn b 20 0.2 2e+6 5e+4
+gou407.prn b 20 0.2 2e+6 5e+4
+gou408.prn b 20 0.2 2e+6 5e+4
+gou409.prn b 20 0.2 2e+6 5e+4
+gou410.prn b 20 0.2 2e+6 5e+4
+gou411.prn b 20 0.2 2e+6 5e+4
+gou412.prn b 20 0.2 2e+6 5e+4
+gou413.prn b 20 0.2 2e+6 5e+4
+gou414.prn b 20 0.2 2e+6 5e+4
+gou415.prn b 20 0.2 2e+6 5e+4
+gou416.prn b 20 0.2 2e+6 5e+4
+gou417.prn b 20 0.2 2e+6 5e+4
+gou418.prn b 20 0.2 2e+6 5e+4
+gou419.prn b 20 0.2 2e+6 5e+4
+gou420.prn b 20 0.2 2e+6 5e+4
+gou421.prn b 20 0.2 2e+6 5e+4
+gou422.prn b 20 0.2 2e+6 5e+4
+gou423.prn b 20 0.2 2e+6 5e+4
+gou424.prn b 20 0.2 2e+6 5e+4
+gou425.prn b 20 0.2 2e+6 5e+4
+gou426.prn b 20 0.2 2e+6 5e+4
+gou427.prn b 20 0.2 2e+6 5e+4
+gou428.prn b 20 0.2 2e+6 5e+4
+gou429.prn b 20 0.2 2e+6 5e+4
+gou430.prn b 20 0.2 2e+6 5e+4
+gou431.prn b 20 0.2 2e+6 5e+4
+gou432.prn b 20 0.2 2e+6 5e+4
+gou433.prn b 20 0.2 2e+6 5e+4
+gou434.prn b 20 0.2 2e+6 5e+4
+gou435.prn b 20 0.2 2e+6 5e+4
+gou436.prn b 20 0.2 2e+6 5e+4
+gou437.prn b 20 0.2 2e+6 5e+4
+gou438.prn b 20 0.2 2e+6 5e+4
+gou439.prn b 20 0.2 2e+6 5e+4
+gou440.prn b 20 0.2 2e+6 5e+4
+gou441.prn b 20 0.2 2e+6 5e+4
+gou442.prn b 20 0.2 2e+6 5e+4
+gou443.prn b 20 0.2 2e+6 5e+4
+gou444.prn b 20 0.2 2e+6 5e+4
+gou445.prn b 20 0.2 2e+6 5e+4
+gou446.prn b 20 0.2 2e+6 5e+4
+gou447.prn b 20 0.2 2e+6 5e+4
+gou448.prn b 20 0.2 2e+6 5e+4
+gou449.prn b 20 0.2 2e+6 5e+4
+gou450.prn b 20 0.2 2e+6 5e+4
+gou451.prn b 20 0.2 2e+6 5e+4
+gou452.prn b 20 0.2 2e+6 5e+4
+gou453.prn b 20 0.2 2e+6 5e+4
+gou454.prn b 20 0.2 2e+6 5e+4
+gou455.prn b 20 0.2 2e+6 5e+4
+gou456.prn b 20 0.2 2e+6 5e+4
+gou457.prn b 20 0.2 2e+6 5e+4
+gou458.prn b 20 0.2 2e+6 5e+4
+gou459.prn b 20 0.2 2e+6 5e+4
+gou460.prn b 20 0.2 2e+6 5e+4
+gou461.prn b 20 0.2 2e+6 5e+4
+gou462.prn b 20 0.2 2e+6 5e+4
+gou463.prn b 20 0.2 2e+6 5e+4
+gou464.prn b 20 0.2 2e+6 5e+4
+gou465.prn b 20 0.2 2e+6 5e+4
+gou466.prn b 20 0.2 2e+6 5e+4
+gou467.prn b 20 0.2 2e+6 5e+4
+gou468.prn b 20 0.2 2e+6 5e+4
+gou469.prn b 20 0.2 2e+6 5e+4
+gou470.prn b 20 0.2 2e+6 5e+4
+gou471.prn b 20 0.2 2e+6 5e+4
+gou472.prn b 20 0.2 2e+6 5e+4
+gou473.prn b 20 0.2 2e+6 5e+4
+gou474.prn b 20 0.2 2e+6 5e+4
+gou475.prn b 20 0.2 2e+6 5e+4
+gou476.prn b 20 0.2 2e+6 5e+4
+gou477.prn b 20 0.2 2e+6 5e+4
+gou478.prn b 20 0.2 2e+6 5e+4
+gou479.prn b 20 0.2 2e+6 5e+4
+gou480.prn b 20 0.2 2e+6 5e+4
+gou481.prn b 20 0.2 2e+6 5e+4
+gou482.prn b 20 0.2 2e+6 5e+4
+gou483.prn b 20 0.2 2e+6 5e+4
+gou484.prn b 20 0.2 2e+6 5e+4
+gou485.prn b 20 0.2 2e+6 5e+4
+gou486.prn b 20 0.2 2e+6 5e+4
+gou487.prn b 20 0.2 2e+6 5e+4
+gou488.prn b 20 0.2 2e+6 5e+4
+gou489.prn b 20 0.2 2e+6 5e+4
+gou490.prn b 20 0.2 2e+6 5e+4
+gou491.prn b 20 0.2 2e+6 5e+4
+gou492.prn b 20 0.2 2e+6 5e+4
+gou493.prn b 20 0.2 2e+6 5e+4
+gou494.prn b 20 0.2 2e+6 5e+4
+gou495.prn b 20 0.2 2e+6 5e+4
+gou496.prn b 20 0.2 2e+6 5e+4
+gou497.prn b 20 0.2 2e+6 5e+4
+gou498.prn b 20 0.2 2e+6 5e+4
+gou499.prn b 20 0.2 2e+6 5e+4
+gou500.prn b 20 0.2 2e+6 5e+4
+~
+
+/GENERAL_PARAMETERS
+1310-printmod
+1-timedir
+1-movemod
+1-tempmod
+1-markmod
+0-ratemod
+1-gridmod
+0-intermod
+0-intermod1
+2-outgrid 
+1-densimod
+0e+6-timezero
+100e+6-timestop
+
+/ERROSION_SEDIMENTATION_PARAMETERS
+1-erosmod
+9900-eroslev
+1.0e-12-eroscon
+0.0e-14-eroskoe
+10000-sedilev
+0.3e-10-sedicon
+0e-13-sedikoe
+100-sedimcyc
+10000-waterlev
+0.30-slopemax
+
+/STOKES_CONTINUITY_PARAMETERS
+1e-04-DIVVMIN
+1e-06-STOKSMIN
+1-stoksmod
+1-viscmod
+0-stoksfd
+1e+15-nubeg  
+1e+25-nuend  
+1e+15-nucontr
+10e+3-hidry
+6e-1-hidrl
+1e-01-strmin
+5e+28-strmax
+
+/HEAT_TRANSFER_PARAMETERS
+1e-8-HEATMIN
+0-heatmod
+0-heatfd 
+1.0-heatdif 
+1-frictyn
+1-adiabyn
+
+/Hydrogen_Diffusion
+1-hydromod
+1.995e-6-D0
+55000-E0
+3.6e-6-DELTAV
+8.314-RCONST
+
